@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">U&amp;ME</string>
+
+    <string-array name="select1">
+        <item>Customer</item>
+        <item>Service</item>
+
+    </string-array>
+
+    <string-array name="category">
+        <item>WEDDING VENUES</item>
+        <item>WEDDING STATIONARY</item>
+        <item>WEDDING DECORATION</item>
+        <item>WEDDING BOUQUETS</item>
+        <item>BRIDAL BEAUTICIANS</item>
+        <item>WEDDING WEAR</item>
+        <item>CULTURAL REQUIREMENTS</item>
+        <item>WEDDING CAKES</item>
+        <item>WEDDING ENTERTAINMENT</item>
+        <item>WEDDING TRANSPORT</item>
+        <item>WEDDING PHOTOGRAPHY</item>
+        <item>HONEYMOON PLANNING</item>
+    </string-array>
+
+
+</resources>
